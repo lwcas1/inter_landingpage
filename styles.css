@@ -12,7 +12,7 @@ body {
 }
 
 .gradient-background {
-    background-image: linear-gradient(to bottom right, #f0eff5, #e2e2e2);
+    background-image: linear-gradient(to bottom right, #f0eff5, ##E2D6D6D6);
 }
 
 header {
