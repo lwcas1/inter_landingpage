@@ -12,7 +12,7 @@ body {
 }
 
 .gradient-background {
-    background-image: linear-gradient(to bottom right, #f0eff5, #e2e2e2);
+    background-image: linear-gradient( #f0eff5, #cccccc);
 }
 
 header {
@@ -209,4 +209,8 @@ footer {
 .address a {
     color: #e2e2e2;
     font-size: 10px;
+}
+
+.address a:hover {
+    color: #f87d0a;
 }
